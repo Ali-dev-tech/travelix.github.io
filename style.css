@@ -19,10 +19,7 @@
     --gradient-color: linear-gradient(to right, var(--yellow-solid), var(--purple-light));
     --gradient-color-alt: linear-gradient(to right, var(--purple-light), var(--yellow-solid));
 }
-.credit{
-    font-family: 'Courgette';
-    font-weight: bold;
-}
+
 
 html{
     font-size: 10px;
@@ -615,4 +612,8 @@ section.offer{
     .book-form .input-group:first-child{
         flex: 0 0 30%;
     }
+}
+.credit{
+    font-family: 'Courgette';
+    font-weight: bold;
 }
